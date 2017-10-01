@@ -49,5 +49,27 @@ body {
 
 #carousel-button {
   right: 0px;
-  position: absolute;
   bottom: 0px; }
+
+.modal .modal-title {
+  color: white; }
+
+.modal .modal-content {
+  border: 0px; }
+
+.modal .close {
+  color: floralwhite; }
+
+.modal .modal-header {
+  background: #512DA8;
+  border: 0px; }
+
+.modal .modal-body {
+  background: #D1C4E9; }
+
+.modal .modal-footer {
+  background: #9575CD;
+  border: 0px; }
+
+.modal-open {
+  padding-right: 0px; }
